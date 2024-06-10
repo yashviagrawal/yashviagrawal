@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashvi Agrawal</h1>
+<h1 align="center">Hi, I'm Yashvi Agrawal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashviagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="yashviagrawal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashviagrawal" alt="yashviagrawal" /></a> </p>
